@@ -1,0 +1,15 @@
+******************************************************************************************
+                          Passo a passo do que será desenvolvido
+******************************************************************************************
+
+- Definição do projeto
+- Definição dos requisitos
+- Elaboração dos diagramas
+- Cronograma de desenvolvimento
+- funções do projeto
+  * emissão de boletos em pdf (carner ou A4), podendo ser emitidos em lote de boletos: provavelmente definindo por quantidade por PDF
+  * envio de boleto por email
+  * geração de arquivos de remessa
+  * leitura de arquivos de retorno
+  * envio troca/transmissões automaticas de arquivos de remessa ou retorno com os banco (função avançada: possivelmente não aplicada a todos os bancos) 
+  
