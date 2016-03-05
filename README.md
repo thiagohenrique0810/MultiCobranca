@@ -1,2 +1,2 @@
 # MultiCobrancaPHP
-Biblioteca de geração, processamento e recebimento de retorno de boletos emitidos.
+Biblioteca de gerenciamento de boletos emitidos e comunicação entre bancos.
